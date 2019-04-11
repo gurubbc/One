@@ -13,6 +13,7 @@ public class Test {
 		System.out.println("gurubbc branch1 first comment");
 		System.out.println("kanna going to trigger");
 		System.out.println("kanna going to trigger another");
+		System.out.println("kanna going to trigger another 2");
 	}
 
 }
