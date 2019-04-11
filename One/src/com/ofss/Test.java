@@ -14,6 +14,7 @@ public class Test {
 		System.out.println("kanna going to trigger");
 		System.out.println("kanna going to trigger another");
 		System.out.println("kanna going to trigger another 2");
+		System.out.println("kanna going to trigger another 3");
 	}
 
 }
