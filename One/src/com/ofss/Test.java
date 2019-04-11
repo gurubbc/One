@@ -12,6 +12,7 @@ public class Test {
 		System.out.println("from fix1 branch");
 		System.out.println("From ubuntu");
 		System.out.println("From ubuntu commit trigger 1");
+		System.out.println("From ubuntu commit trigger 2");
 	}
 
 }
